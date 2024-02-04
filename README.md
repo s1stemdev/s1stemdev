@@ -5,7 +5,10 @@
 - RIVENDELL - Minecraft server with new custom mechanics and interesting content 🌛[Website URL](https://shop.riven-dell.ru)
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1stemdev&hide=shaderlab,hlsl,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1stemdev&hide=shaderlab,hlsl,css,scss,html&theme=merko)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1stemdev&show_icons=true&theme=merko)
+
+
 <!--
 **s1stemdev/s1stemdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
