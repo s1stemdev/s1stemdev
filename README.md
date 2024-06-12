@@ -4,6 +4,19 @@
 # 🔭 My projects
 - RIVENDELL - Minecraft server with new custom mechanics and interesting content 🌛[Website URL](https://shop.riven-dell.ru)
 
+# 🗺 Languages
+- Russian (Native)
+- English (B2)
+- German (A2)
+
+# 💻 Programming languages
+- Java
+- C#
+- Python
+- C/C++
+- Wiring
+- Go (learning)
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1stemdev&hide=shaderlab,hlsl,css,scss,html&theme=merko)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1stemdev&show_icons=true&theme=merko)
  ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=systemdev)
