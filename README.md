@@ -6,6 +6,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1stemdev&hide=shaderlab,hlsl,css,scss,html&theme=merko)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1stemdev&show_icons=true&theme=merko)
+ ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=systemdev)
 
 
 <!--
