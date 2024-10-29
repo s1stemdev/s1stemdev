@@ -1,9 +1,6 @@
 ## Hi there 👋
 ### My name is Nikolay
 
-# 🔭 My projects
-- RIVENDELL - Minecraft server with new custom mechanics and interesting content 🌛[Website URL](https://shop.riven-dell.ru)
-
 # 🗺 Languages
 - Russian (Native)
 - English (B2)
